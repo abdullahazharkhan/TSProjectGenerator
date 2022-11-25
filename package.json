@@ -1,12 +1,9 @@
 {
-  "name": "create-assign-project",
+  "name": "projectName",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "type": "module",
-  "bin": {
-    "create-assign-project": "./generate-app.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
