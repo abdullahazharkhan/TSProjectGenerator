@@ -1,3 +1,3 @@
 ```
-npx create-assign-project <yourProjectName>
+npx create-tscript-project <yourProjectName>
 ```
